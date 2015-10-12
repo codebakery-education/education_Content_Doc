@@ -14,10 +14,10 @@ Codebakery Arduino Education Document
 이 팀은 코드베이커리의 프로젝트 중 하나로, 어린이를 위한 아두이노 프로그래밍 교재를 제작합니다.
 교재 제작을 위해 디자인, 교육연구, 콘텐츠 제작 팀으로 나뉘어 작업하고 있습니다.
 
+##Our authors
+* [http://l0gic.me](조동현)
+* 김동우
+* 이한결
+* 라윤이
 
-##활동
-
-
-
-##팀
-
+##Activities
