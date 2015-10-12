@@ -15,7 +15,7 @@ Codebakery Arduino Education Document
 교재 제작을 위해 디자인, 교육연구, 콘텐츠 제작 팀으로 나뉘어 작업하고 있습니다.
 
 ##Our authors
-* [http://l0gic.me](조동현)
+* [조동현](http://l0gic.me)
 * 김동우
 * 이한결
 * 라윤이
