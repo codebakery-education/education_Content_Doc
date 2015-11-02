@@ -19,5 +19,6 @@ Codebakery Arduino Education Document
 * 김동우
 * 이한결
 * 라윤이
+* 박재성
 
 ##Activities
