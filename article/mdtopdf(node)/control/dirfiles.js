@@ -8,7 +8,7 @@ fs.readdir(path, function(err, files) {
   if(err) throw err;
   files.forEach(function(file) {
     if ((file.indexOf('.pdf') == -1)&&(file.indexOf('.md')!= -1) ) {
-      mdtopdf().from(path+"/"+file).to(path+"pdf/"+file+".pdf");
+      mdtopdf().from(path+"/"+file).to("../convert/"+file+".pdf");
       console.log(file+" done");
     }
   })//각각의 파일을 바로 pdf로 변환함
